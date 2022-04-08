@@ -7,6 +7,12 @@ With ten years of background in strategic work in higher ed and workforce develo
 - Currently learning: Python, Django
 - Current favorite language: Javascript 
 
+# [Connect with me](https://www.linkedin.com/in/robyn-goodner/)
+
+
+# Languages and tools:
+![](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png)
+
 <!--
 **robyngoodner/robyngoodner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
