@@ -12,7 +12,7 @@ With ten years of background in strategic work in higher ed and workforce develo
 
 
 ### Languages and tools:
-![javascript](https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg =250x250)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="100" width="100">
 ![react](https://user-images.githubusercontent.com/90972554/162439412-832a41af-adbc-46e7-b1e3-f58ca1110d5b.svg)
 ![nodedotjs](https://user-images.githubusercontent.com/90972554/162439439-825676a7-60a2-4f60-8e37-1ec3a36d05b8.svg)
 ![express](https://user-images.githubusercontent.com/90972554/162439492-37722b1d-79f8-4558-b7b8-1c3f8957c5eb.svg)
