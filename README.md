@@ -8,19 +8,27 @@ With ten years of background in strategic work in higher ed and workforce develo
 - Current favorite language: Javascript 
 
 ### Connect with me
-[![linkedin](https://user-images.githubusercontent.com/90972554/162439642-f18eb0db-1fb6-4b0b-99dc-46f6b86513f1.svg)](https://www.linkedin.com/in/robyn-goodner/)
+[<img src="https://user-images.githubusercontent.com/90972554/162439642-f18eb0db-1fb6-4b0b-99dc-46f6b86513f1.svg" height="25" width="25">](https://www.linkedin.com/in/robyn-goodner/)
 
 
 ### Languages and tools:
-<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="100" width="100">
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![react](https://user-images.githubusercontent.com/90972554/162439412-832a41af-adbc-46e7-b1e3-f58ca1110d5b.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![nodedotjs](https://user-images.githubusercontent.com/90972554/162439439-825676a7-60a2-4f60-8e37-1ec3a36d05b8.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![express](https://user-images.githubusercontent.com/90972554/162439492-37722b1d-79f8-4558-b7b8-1c3f8957c5eb.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![python](https://user-images.githubusercontent.com/90972554/162439522-759ed0a2-b783-42b4-8e89-13c661b2a746.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![django](https://user-images.githubusercontent.com/90972554/162439550-2c242130-d417-46db-a6cd-d57b3add3acf.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![mongodb](https://user-images.githubusercontent.com/90972554/162439680-1ff07eba-1b73-48fc-80d9-78a09bce0d70.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![html5](https://user-images.githubusercontent.com/90972554/162439731-b1906424-1f23-4c84-8459-d9c6cccaefb1.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 ![css3](https://user-images.githubusercontent.com/90972554/162439761-1015c2b0-e250-4b72-b47b-917e19e473c5.svg)
+<img src="https://user-images.githubusercontent.com/90972554/162439373-006eb32c-ee10-4dc7-9ca6-5a9987307caf.svg" height="25" width="25">
 
 
 <!--
